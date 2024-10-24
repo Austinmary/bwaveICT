@@ -1,0 +1,8 @@
+# This is apython script to print "Hello, World" to the console. 
+# This is a comment. It is used to explain my code.
+
+print("Hello, World!")
+
+# The line above uses the print function to output text in the console
+# print() function displays the text "Hello, World" in the console.
+# The text inside the quotation marks is the string that will be printed.
